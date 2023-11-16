@@ -1,0 +1,29 @@
+body {
+  background: rgb(8,26,40);
+  background: linear-gradient(356deg, rgba(8,26,40,1) 0%, rgba(0,84,120,1) 65%);
+  min-height: 100vh;
+}
+
+#goals {
+  width: 35rem;
+  max-width: 90%;
+  margin: 3rem auto;
+}
+
+#goal-form {
+  width: 30rem;
+  max-width: 90%;
+  margin: 2rem auto;
+  padding: 2rem;
+  box-shadow: 0 2px 12px rgba(0, 0, 0, 0.2);
+  border-radius: 10px;
+  background-color: white;
+}
+
+.main-title {
+    margin-top: 20px;
+    text-align: center;
+    color: white;
+    font-size: 2rem;
+    font-family: monospace;
+}

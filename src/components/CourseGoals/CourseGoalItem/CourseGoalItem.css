@@ -1,0 +1,9 @@
+.goal-item {
+  margin: 1rem 0;
+  background: radial-gradient(circle at 10% 41%, rgb(188 122 32) 0%, rgb(201 125 48) 90%);
+  border-radius: 7px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.26);
+  color: white;
+  padding: 1rem 2rem;
+  cursor: pointer;
+}
